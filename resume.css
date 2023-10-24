@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+p {
+    font-family: Helvetica;
+    font-size: 14;
+    
+}
+
+section.contact{
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    color: white;
+}
+
+.history{
+    position:relative;
+    right: 0px;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    color: white;
+}
